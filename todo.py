@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 
-app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:////Users/efeca/Desktop/python_projects/todo-app/todo.db"
+app.config["SQLALCHEMY_DATABASE_URI"] = "sqlite:////Users/efeca/Desktop/python_projects/todo-app-flask/todo.db"
 
 db = SQLAlchemy(app)
 
