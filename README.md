@@ -1,7 +1,7 @@
 ## Used technologies
 * Flask
-* Basic HTML
-* Basic CSS
+* HTML5
+* CSS3
 * Bootstrap
 * SQLite3
 * ORM
